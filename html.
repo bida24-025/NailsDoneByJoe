@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+     <head>
+           <title> Home </title>
+           <meta charset="uf-8"/>
+           <style>
+                   h1 { color:blue; text-transfrom: Uppercase; font-size: 48px; }
+                   P { text align: center; color :pink; }
+                   #ol { color: red; }
+                   ol { list-style-type: a; }
+                   ol> nth-child (2) {color :green; }
+           </style>
+     </head>
+<body>
+     <h1> NailsDoneByJoe </h1>
+    <p> Welcome to our bussiness page, Hope you enjoy our services. We provide the best for our cutomers.</p>
